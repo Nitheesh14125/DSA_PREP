@@ -5,4 +5,4 @@ def sorted_or_not(arr):
     return True
 
 arr = [10,20,30,40,2]
-print(sorted_or_not(arr))
+print(sorted_or_not(arr)) 
