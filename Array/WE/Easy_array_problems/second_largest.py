@@ -12,3 +12,4 @@ def second_largest(arr):
 
 arr = [10,20,30,40,50]
 print(second_largest(arr))
+  
