@@ -1,0 +1,256 @@
+WEEK 1 — ARRAY PATTERNS
+
+Patterns to Master
+
+
+Two Pointers
+
+Sliding Window
+
+Prefix Sum
+
+Kadane’s Algorithm
+
+
+Goal: Instantly recognize which pattern applies.
+
+DAY 1 — ARRAY BASICS + TWO POINTERS
+
+Concept Focus: Two pointers moving from start/end.
+
+Problems
+
+
+Easy
+Two Sum
+
+Contains Duplicate
+
+
+
+
+Medium
+Squares of a Sorted Array
+
+Move Zeroes
+
+Best Time to Buy and Sell Stock
+
+Remove Duplicates from Sorted Array
+
+
+
+
+Medium/Hard
+Container With Most Water
+
+
+
+
+
+DAY 2 — ADVANCED TWO POINTERS
+
+Concept Focus: Opposite pointer movement and pair searching.
+
+Problems
+
+
+Easy
+Valid Palindrome
+
+Merge Sorted Array
+
+
+
+
+Medium
+Two Sum II (sorted input)
+
+3Sum
+
+Sort Colors
+
+Boats to Save People
+
+
+
+
+Hard
+Trapping Rain Water
+
+
+
+
+
+DAY 3 — SLIDING WINDOW (FIXED WINDOW)
+
+Concept Focus: Window with fixed size.
+
+Problems
+
+
+Easy
+Maximum Average Subarray I
+
+Contains Duplicate II
+
+
+
+
+Medium
+Subarray Product Less Than K
+
+Maximum Points You Can Obtain From Cards
+
+Number of Subarrays of Size K and Average &gt;= Threshold
+
+Grumpy Bookstore Owner
+
+
+
+
+Medium/Hard
+Sliding Window Maximum
+
+
+
+
+
+DAY 4 — SLIDING WINDOW (VARIABLE WINDOW)
+
+Concept Focus: Expand window -&gt; shrink when condition breaks.
+
+Problems
+
+
+Medium
+Longest Substring Without Repeating Characters
+
+Longest Repeating Character Replacement
+
+Permutation in String
+
+Find All Anagrams in a String
+
+Minimum Size Subarray Sum
+
+
+
+
+Hard
+Minimum Window Substring
+
+
+
+
+Easy
+Longest Continuous Increasing Subsequence
+
+
+
+
+
+DAY 5 — PREFIX SUM PATTERN
+
+Concept Focus: Precompute sums to answer range queries.
+
+Problems
+
+
+Easy
+Running Sum of 1D Array
+
+Find Pivot Index
+
+
+
+
+Medium
+Subarray Sum Equals K
+
+Continuous Subarray Sum
+
+Product of Array Except Self
+
+
+
+
+Hard
+Subarray Sum Equals K (follow-up optimization practice)
+
+
+
+
+Medium
+Maximum Product Subarray
+
+
+
+
+
+DAY 6 — KADANE + GREEDY ARRAY
+
+Concept Focus: Kadane’s Algorithm and greedy decision making.
+
+Problems
+
+
+Easy
+Maximum Subarray
+
+
+
+
+Medium
+Maximum Sum Circular Subarray
+
+Jump Game
+
+Jump Game II
+
+Gas Station
+
+
+
+
+Hard
+Candy
+
+
+
+
+Medium
+Longest Consecutive Sequence
+
+
+
+
+
+DAY 7 — REVISION + SPEED PRACTICE
+
+Re-solve 10 problems without looking at solutions:
+
+
+Container With Most Water
+
+3Sum
+
+Longest Substring Without Repeating Characters
+
+Minimum Window Substring
+
+Sliding Window Maximum
+
+Subarray Sum Equals K
+
+Maximum Product Subarray
+
+Jump Game
+
+Gas Station
+
+Longest Consecutive Sequence
+
+
+Goal on revision day: solve each within 10–15 minutes.
+
