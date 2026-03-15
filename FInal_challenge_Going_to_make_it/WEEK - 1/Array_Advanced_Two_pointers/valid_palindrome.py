@@ -1,16 +1,11 @@
-def valid_palindrome(str):
-    left = 0 
-    right = len(str)- 1
-    while left < right :
-        if str[left] != str[right]:
+def valid_palindrome(s):
+    left = 0
+    right = len(s)-1 
+    while left < right:
+        if s[left] != s[right]:
             return False
-        left = left + 1 
+        left = left + 1
         right = right - 1
-    return True 
+    return True
 
-str= "MADAM"
-print(valid_palindrome(str))
-
-
-#Time complexity = o(n)
-#space complexity = o(1)  might be change if the left and right variable 
+print(valid_palindrome("madam"))
