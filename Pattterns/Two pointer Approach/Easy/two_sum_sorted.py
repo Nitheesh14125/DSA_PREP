@@ -12,11 +12,11 @@ def two_sum_sorted(arr,target):
         sum_of = arr[left] + arr[right]
         
         if sum_of == target:
-            return [left,right]
+            return [left+1,right+1]
         elif sum_of > target:
             right = right - 1 
         else:
             left = left + 1
 
 arr = [2,4,9,10]
-print(two_sum_sorted(arr))
+print(two_sum_sorted(arr,6))
