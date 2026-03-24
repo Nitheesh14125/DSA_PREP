@@ -12,18 +12,21 @@ def container_most_water(height):
     right = len(height)-1
     max_water = 0 
 
-    while left<right:
+    while left < right :
         width = right - left 
         h = min(height[left],height[right])
-        area = width * h 
+        area = h * width 
 
-        max_water = max(area,max_water)
+        max_water = max(max_water,area) 
 
         if height[left] < height[right]:
             left = left + 1
         else:
-            right = right -1 
+            right = right - 1
+    
     return max_water
+
+
 
 height = [1,8,6,2,5,4,8,3,7]
 print(container_most_water(height))
